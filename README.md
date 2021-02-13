@@ -7,12 +7,12 @@ ALGORITHM USED : K-Means
 
 # Workflow behind Implemention of K-Means Clustering
 
-1. Choose the number of clusters k
+1. Choose the number of clusters 'k'
 
-2. Select k random points from the data as centroids
+2. Select 'k' random points from the data as centroids
 
 3. Assign all the points to the closest cluster centroid
 
 4. Recompute the centroids of newly formed clusters
 
-5. Repeat steps 3 and 4
+5. Repeat steps '3' and '4'
