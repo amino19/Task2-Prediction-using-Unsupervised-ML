@@ -1,5 +1,5 @@
 # Task2-Prediction-using-Unsupervised-ML
-P R O B L E M        : From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+P R O B L E M  : From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 ALGORITHM USED : K-Means
 
