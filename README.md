@@ -15,4 +15,4 @@ P R O B L E M  : From the given ‘Iris’ dataset, predict the optimum number o
 
 5. Repeat steps '3' and '4'
 
-Craeted using Python here; ALGORITHM USED : K-Means
+Created using Python here; ALGORITHM USED : K-Means
